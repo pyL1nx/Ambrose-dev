@@ -21,15 +21,11 @@ JavaScript – Interactivity
 ✅ Responsive layout
 ✅ Links to my X (Twitter), GitHub, and Email
 
-🚀 Live Preview 
-
-View My Portfolio ()
-
 📬 Connect with Me
 
-GitHub: github.com/PyL1nx
+GitHub: https://github.com/pyL1nx
 
-X : 
+X : https://x.com/pyL1nx
 
 Email: ambrose.linux+coder@gmail.com
 
